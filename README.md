@@ -1,2 +1,2 @@
 # Jamify
- a clone of your fav music streaming site
+ a clone of your fav music streaming site (responsive)
