@@ -1,4 +1,9 @@
 # Jamify
- a clone of your fav music streaming site using html, css, js (responsive)
+ A music streaming platform inspired by services like Spotify, where users can listen to their favorite music, using HTML, CSS and Javascript.
+
+**Features:**
+- Audio player functionality
+- User-friendly interface 
+- Responsive design 
  
- ![Alt text](/final%20product/jamify.png)
+ ![Jamify](/final%20product/jamify.png)
